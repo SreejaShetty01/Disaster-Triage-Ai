@@ -80,3 +80,16 @@ disaster-triage-ai/
 │── src/
     │── app.py
     │── engine.py
+
+---
+
+## ⚙️Installation & Run
+Install dependencies:
+pip install -r requirements.txt
+Run the app:
+streamlit run src/app.py
+Open in browser:
+http://localhost:8501
+
+##  ⚠️Disclaimer
+This tool provides triage assistance and safety guidance. It does not replace official emergency services or professional medical diagnosis.
